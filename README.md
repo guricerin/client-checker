@@ -7,7 +7,8 @@
 npm run dev
 ```
 
-- build
-```bash
-npm run build
-```
+## LICENSE
+
+- `./public/favicon.ico`: CC BY-ND 3.0
+  - https://www.iconspedia.com/icon/green-eye-watch-icon-31960.html
+- others: MIT
