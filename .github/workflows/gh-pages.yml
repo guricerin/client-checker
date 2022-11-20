@@ -24,6 +24,7 @@ jobs:
       - name: Build
         working-directory: ./
         run: |
+          npm ci
           npm run build
 
       - name: Deploy
